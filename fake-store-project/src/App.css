@@ -3,3 +3,37 @@
   background-color: rgb(23, 38, 58);
   color:#967245;
 }
+.Nav-list{
+ list-style: none; 
+ display: inline-block;
+ text-transform: uppercase;
+}
+.parallax{
+  background-image: url('./Functions/IMG/heroyellow.jpg');
+  min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer{ 
+  background-color:rgb(23, 38, 58);
+  height: auto;
+}
+.productCardOuter{
+  height: 200px;
+  width: auto;
+  background-color: rgba(252, 252, 252, 0.082);
+  border-radius: 5px;
+}
+.productInfoStyle{
+  background-color: rgb(23, 38, 58);
+  border-radius: 5px;
+  color:#967245;
+}
+.footerHead{
+  color:#967245
+}
+.footerHeadTitle{
+  list-style: none;
+}
